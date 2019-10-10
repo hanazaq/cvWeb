@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bucket List API(Heroku deployment)
 
 The api enables you to create/ register a user within the application.
@@ -48,3 +49,7 @@ You can also run tests with coverage by running this command in the terminal
 ```
 nosetests --with-coverage --cover-package=app
 ```
+=======
+# cvWeb
+webstie
+>>>>>>> ef902a20d9314034f9412779373f2f0eda28a085
